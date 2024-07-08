@@ -1,0 +1,12 @@
+RCONST 23.5 1
+SCONST 43 "Please type the coordinates of three points" 0
+RCONST 15.25 3
+ICONST 125 3
+ICONST 4321 4
+DOT . 4
+IDENT true 4
+DOT . 4
+SCONST 48 "The center of the circle through these points is" 3
+DOT . 5
+IDENT false 5
+DOT . 5
